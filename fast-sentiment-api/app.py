@@ -1,4 +1,4 @@
-# Step by Step Guide to Deployment using Streamlit
+# Step by Step Guide to Deployment using FastAPI
 
 import uvicorn                           # import uvicorn to run the API locally on our machine and test it. It is a lightning-fast ASGI server implementation. 
 
