@@ -1,4 +1,4 @@
-# Step by Step Guide to Deployment using FastAPI
+# Step by Step Guide to Deploying a Sentiment Analyzer using FastAPI
 
 import uvicorn                           # import uvicorn to run the API locally on our machine and test it. It is a lightning-fast ASGI server implementation. 
 
