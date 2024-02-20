@@ -1,5 +1,5 @@
 # Sentiment_Analyzer_API
-*Summary*
+*Summary* 
 
 An API for sentiment analysis deployed using FastAPI. 
 Learn Model Deployment using FastAPI 
